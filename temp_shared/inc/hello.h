@@ -1,0 +1,2 @@
+void HelloCuong(); 
+void HelloWorld();
